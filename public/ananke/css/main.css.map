@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/odinstudent/repos/personal-blog/quickstart",
+	"sourceRoot": "/home/odinstudent/repos/personal-blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
